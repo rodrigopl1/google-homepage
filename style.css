@@ -1,0 +1,44 @@
+#navbar {
+    padding: 1px;
+}
+#fris {
+    margin: 27px 0px 0px 500px;
+    font-family: Helvetica, sans-serif;
+
+}
+ul {
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    padding-right: 10px;
+    color: #000000;
+    font-family: Helvetica, sans-serif;
+  }
+li {
+    display: inline;
+}
+
+button {
+    background-color: #4285f4;;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 1px;
+}
+#img-logo{
+    margin: 100px 0px 20px 500px;
+    height: 100px;
+}
+#footer {
+    font-size: 14px;
+    background-color: rgb(237, 237, 237);
+    color: rgb(82, 81, 81);
+    font-family: Helvetica, sans-serif;
+    width: 1351px;
+    height: 40.5px;
+    position: fixed; 
+    padding: 10px 10px 0px 10px; 
+    bottom: 0; 
+}
+#rfoot {
+    display: flex;
+}
